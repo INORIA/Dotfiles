@@ -1,0 +1,4 @@
+#/bin/sh
+
+sudo rm -r ~/Downloads
+ln -s ~/Desktop ~/Downloads

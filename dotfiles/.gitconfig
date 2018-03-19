@@ -1,0 +1,13 @@
+[core]
+	excludesfile = ~/.gitignore_global
+	pager = less -X
+	editor = vim -u NONE
+[color]
+	ui = auto
+[push]
+	default = simple
+[user]
+	useConfigOnly = true
+[credential]
+	helper = osxkeychain
+
